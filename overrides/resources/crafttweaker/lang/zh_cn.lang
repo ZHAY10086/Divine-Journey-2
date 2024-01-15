@@ -330,7 +330,7 @@ dj2.eden_heart.desc0=§f要获得该物品，前往伊甸维度寻找太阳祭�
 dj2.eden_heart.desc1=§f献祭伊甸宝石块并击败太阳风暴！
 dj2.dungeon_bookshelf.desc0=§f于§r§9秘界地牢§r§f发现。
 dj2.dungeon_bookshelf.desc1=§f使用精准采集获取。
-dj2.acceleron.desc0=§f从位于r§9秘界地牢§r§r§b达提康§r§f处交易获得。
+dj2.acceleron.desc0=§f从位于§9秘界地牢§r§r§b达提康§r§f处交易获得。
 dj2.raw_arcanium.desc0=§f于§r§9秘界地牢§r§f发现，
 dj2.raw_arcanium.desc1=§f藏在关着的门之后。
 dj2.molten_furnace.desc0=§f于§r§9秘界地牢§r§f发现，
@@ -338,7 +338,7 @@ dj2.molten_furnace.desc1=§f位于特定NPC房间。
 dj2.dungeon_tokens.desc0=§f由位于§9秘界地牢§r§f的秘界寄生虫和
 dj2.dungeon_tokens.desc1=§f地牢监管者掉落。通过在对应祭坛上放置
 dj2.dungeon_tokens.desc2=§f巫师之书来召唤它们。
-dj2.wizards_book.desc0=§f从位于r§9秘界地牢§r§r的§4瓦提库斯领主§r§f处交易获得。
+dj2.wizards_book.desc0=§f从位于§9秘界地牢§r§r的§4瓦提库斯领主§r§f处交易获得。
 
 # Mekanism tooltips
 dj2.robit.desc0=§c§l警告：§r§7§l只会保留作为材料的私人箱子中前3行的物品！
@@ -548,13 +548,13 @@ dj2.engineers_manual.desc1=§o使用JEI来查看！
 
 # Mystical Agriculture tooltips
 dj2.dragon_egg_seeds.desc0=层级：§r§c5
-dj2.any_crystal_durability.desc0=Uses Left: §c%s
+dj2.any_crystal_durability.desc0=剩余使用次数：§c%s
 dj2.inferium_crystal.desc0=§e下级精华§r -> §a初级精华§r
 dj2.prudentium_crystal.desc0=§a初级精华§r -> §6中级精华§r
 dj2.intermedium_crystal.desc0=§6中级精华§r -> §b高级精华§r
 dj2.superium_crystal.desc0=§b高级精华§r -> §c终极精华§r
 dj2.supremium_crystal.desc0=§c终极精华§r -> §5究极精华§r
-dj2.master_crystal.desc0=§e§k米§b§k青§c§kN§5§k华 -> §e§k米§b§k青§c§kN§5§k华
+dj2.master_crystal.desc0=§e§kE§a§kS§6§kS§b§kE§c§kN§5§kC§f§kE§r -> §e§kE§a§kS§6§kS§b§kE§c§kN§5§kC§f§kE§r
 
 # Quantum Flux tooltips
 dj2.ender_crystal.desc0=由末影人掉落。
